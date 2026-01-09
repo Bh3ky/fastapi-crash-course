@@ -99,3 +99,6 @@ dmypy.json
 # OS / Editor backups
 # =========================
 *~
+
+# Books
+books/
